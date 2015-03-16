@@ -10,6 +10,8 @@ The alert is sent using Simple Network Management Protocol (snmptrap) with the p
 
 INSTALL:
 Read the INSTALL.quagga.txt file in /quagga-snmp-TRAP-0.99.18/
+If you downloaded a original Quagga 0.99.18, you can download now only the patch file to get Quagga SNMP-trap version.
+If not, download the 7z file with everything (original Quagga + patch included).
 
 README:
 Read the README-Quagga-snmpTrap.txt file in /quagga-snmp-TRAP-0.99.18/
